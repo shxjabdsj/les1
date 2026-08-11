@@ -1,0 +1,70 @@
+.modeling{
+    background-color:#001EBD;
+
+    width: 350px;
+height: 64px;
+margin: 0 auto;
+padding-top: 26px;
+padding-bottom: 26px;
+padding-right: 25px;
+padding-left: 25px;
+border-radius: 20px;
+angle: 0 deg;
+opacity: 1;
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: white;
+}
+
+.boox{
+width: 451px;
+height: 777px;
+margin: 17px auto;
+padding-top: 40px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 20px;
+background-color: black;
+}
+
+.red{
+    width: 200px;
+height: 200px;
+margin: 25px auto;
+angle: 0 deg;
+opacity: 1;
+border-radius: 150px;
+border-width: 5px;
+background-color: #DF3636;
+border: 5px solid #28E145
+}
+
+.yellow{
+       width: 200px;
+height: 200px;
+margin: 25px auto;
+angle: 0 deg;
+opacity: 1;
+border-radius: 150px;
+border-width: 5px;
+background-color: #FDE403;
+border: 5px solid #28E145;
+}
+
+.green{
+       width: 200px;
+height: 200px;
+margin: 25px auto;
+angle: 0 deg;
+opacity: 1;
+border-radius: 150px;
+border-width: 5px;
+background-color: #28E145;
+border: 5px solid #28E145;
+}
